@@ -1,10 +1,6 @@
 # Project Name
 
-example image:
-
-
 ![alternative text](reports/img/basketball.jpg)
-
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
