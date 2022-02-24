@@ -9,7 +9,7 @@ example image:
 #### -- Project Status: [Active, On-Hold, Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is tbd. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
 
 ### Partner
 * [Name of Partner organization/Government department etc..]
