@@ -1,15 +1,11 @@
 # Project Name
 
-example image:
-
-
-![alternative text](reports/img/pic01.jpg)
-
+![alternative text](reports/img/basketball.jpg)
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is.. top secret :-)
 
 ### Partner
 * [Name of Partner organization/Government department etc..]
@@ -25,10 +21,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 * etc.
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
 * HTML
 * JavaScript
